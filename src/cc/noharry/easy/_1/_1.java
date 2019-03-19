@@ -43,7 +43,6 @@ public class _1 {
             }
         }
 
-
         result[0]=i1;
         result[1]=i2;
         return result;

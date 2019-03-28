@@ -1,6 +1,7 @@
 package cc.noharry.easy._830;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class _830 {
@@ -37,6 +38,9 @@ public class _830 {
         }
         return result;
     }
+
+
+
 
     public static void main(String[] args) {
         String s="abcdddeeeeaabbbcd";
